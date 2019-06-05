@@ -1,0 +1,4 @@
+﻿  MapDrawer.cpp
+c:\users\adamg\desktop\projektsfml\projektsfml\mapdrawer.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\adamg\desktop\projektsfml\projektsfml\mapdrawer.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  PROJEKTSFML.vcxproj -> C:\Users\adamg\Desktop\PROJEKTSFML\Debug\PROJEKTSFML.exe
